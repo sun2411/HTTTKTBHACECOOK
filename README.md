@@ -138,6 +138,6 @@ A desktop application (C# / WinForms) connects to the SQL Server database to dem
 
 | | |
 |---|---|
-| Course | Hệ Quản Trị Cơ Sở Dữ Liệu SQL Server |
+| Course | Hệ thống thông tin kế toán |
 | Institution | University of Finance and Marketing (UFM), Ho Chi Minh City |
 | Completed | December 2025 |
