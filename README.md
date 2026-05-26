@@ -1,176 +1,143 @@
-# 🍜 Hệ Thống Thông Tin Kế Toán Quản Lý Bán Hàng – ACECOOK Việt Nam
+# Sales Management Database System (Acecook Vietnam Case Study)
 
-> Đồ án học phần **Hệ Thống Thông Tin Kế Toán** – Trường Đại học Tài chính Marketing
 
----
-
-## 📋 Giới Thiệu
-
-Dự án xây dựng **Hệ thống Thông tin Kế toán Quản lý Bán hàng** cho Công ty Cổ phần ACECOOK Việt Nam – một trong những nhà sản xuất mì ăn liền hàng đầu Việt Nam (thành lập 15/12/1993, chuyển đổi thành Công ty Cổ phần ngày 18/1/2008). Hệ thống hỗ trợ toàn bộ quy trình kinh doanh từ quản lý khách hàng, đơn hàng, kho hàng, kế toán đến báo cáo thống kê.
+> **Academic course project** — End-to-end design and implementation of a sales management database system for a real-world FMCG enterprise environment, covering business analysis, database design, advanced SQL Server features, and application development.
 
 ---
 
-## 🛠️ Công Nghệ Sử Dụng
+## Business Problem
 
-| Thành phần | Công nghệ |
+Manual sales workflows at Acecook Vietnam create bottlenecks in order processing, inventory tracking, invoicing, payment management, and reporting. This project models a structured database solution to digitise and automate these processes across the entire sales pipeline — from order placement to revenue reporting.
+
+---
+
+## Functional Scope
+
+| Module | Key Capabilities |
 |---|---|
-| Ngôn ngữ lập trình | C# (.NET) |
-| Giao diện | Windows Forms (Desktop Application) |
-| Hệ quản trị CSDL | Microsoft SQL Server |
-| Công cụ phân tích | Enterprise Architect, Draw.io, PowerDesigner |
-| IDE | Microsoft Visual Studio |
+| Customer Management | Customer profiles, classification (retail/agency/supermarket), debt tracking, membership cards |
+| Product Management | Product catalogue (Hảo Hảo, Đệ Nhất, Lẩu Thái…), pricing, promotions, unit conversion |
+| Order Management | Order creation, status tracking (pending → approved → delivered → paid) |
+| Warehouse Management | Multi-warehouse inventory, import/export slips, minimum stock alerts |
+| Supplier Management | Supplier profiles, material supply contracts, payable debt tracking |
+| Invoicing | Export slips linked to orders, VAT invoices with tax calculation |
+| Payment & Receivables | Partial payment support, invoice status, accounts receivable/payable tracking |
+| User & Access Control | RBAC (Role-Based Access Control), login audit log, account lockout |
+| Reporting & Statistics | Revenue by product/customer/period, inventory reports, top-selling products |
 
 ---
 
-## ✨ Tính Năng Chính
+## Tech Stack
 
-### 👥 Kinh Doanh
-- **Quản lý Khách hàng** – Thêm, xem, chỉnh sửa, xóa thông tin khách hàng; phân loại theo loại khách hàng; xem lịch sử mua hàng
-- **Quản lý Đơn hàng** – Tạo đơn hàng mới, chỉnh sửa, theo dõi trạng thái đơn hàng, duyệt đơn hàng, lập lệnh bán hàng
-
-### 📦 Kho Hàng
-- **Quản lý Sản phẩm & Nguyên vật liệu** – Thêm, xem, cập nhật thông tin sản phẩm; quản lý nguyên vật liệu và định mức sản xuất
-- **Quản lý Tồn kho** – Kiểm tra tồn kho real-time, nhập kho, xuất kho; báo cáo tồn kho theo thời điểm
-- **Quản lý Nhà cung cấp** – Thêm, xem, cập nhật thông tin nhà cung cấp; ghi nhận dừng giao dịch
-
-### 💰 Kế Toán
-- **Quản lý Công nợ** – Theo dõi công nợ khách hàng và phải trả nhà cung cấp
-- **Quản lý Hóa đơn** – Lập hóa đơn bán hàng, phiếu thanh toán nhà cung cấp, cập nhật trạng thái thanh toán
-- **Bút toán Kế toán** – Ghi nhận bút toán, quản lý tài khoản kế toán đa cấp (cấp 1, 2, 3), số dư đầu kỳ
-
-### 📊 Báo Cáo & Thống Kê
-- Báo cáo doanh thu
-- Báo cáo tồn kho
-- Báo cáo đơn hàng
-- Báo cáo công nợ khách hàng
-- Báo cáo phải trả nhà cung cấp
-
-### 🔐 Quản Trị Hệ Thống
-- Đăng nhập / Đăng xuất bảo mật
-- Quên mật khẩu / Đổi mật khẩu
-- Quản lý người dùng
-- Phân quyền theo vai trò (RBAC – Role-Based Access Control)
-
----
-
-## 📸 Giao Diện Minh Họa
-
-| Màn hình | Mô tả |
+| Layer | Technology |
 |---|---|
-| Đăng nhập | Xác thực tài khoản người dùng |
-| Quản lý Khách hàng | Danh sách và thao tác CRUD khách hàng |
-| Quản lý Sản phẩm | Danh sách sản phẩm và nguyên vật liệu |
-| Bút toán Kế toán | Ghi nhận và quản lý bút toán |
-| Báo cáo Tồn kho | Thống kê tồn kho toàn hệ thống |
+| Database | SQL Server (SSMS, SQL Server 2021) |
+| DB Design | PowerDesigner (CDM → LDM → PDM) |
+| Application | C# (.NET Framework 4.8), WinForms |
+| Query Language | T-SQL |
 
 ---
 
-## 🗄️ Cơ Sở Dữ Liệu
+## Database Design
 
-Hệ thống sử dụng **Microsoft SQL Server** với các nhóm bảng chính:
+The database is designed across three levels following standard methodology:
 
-- **Nhân sự & Phân quyền:** `NHANVIEN`, `PHONGBAN`, `CHUCVU`, `TAIKHOAN`, `VAITRO`, `QUYEN`, `LOAIQUYEN`
-- **Kinh doanh:** `DONDATHANG`, `CT_DH`, `LENHBANHANG`, `HOADONBAN`, `KHACHHANG`, `LOAIKHACHHANG`
-- **Kho hàng:** `SANPHAM`, `LOAISANPHAM`, `NGUYENLIEU`, `KHO`, `TONKHO`, `PHIEUNHAPKHO`, `CHITIET_PN`, `PHIEUXUAT`, `CT_PX`
-- **Nhà cung cấp:** `NHACUNGCAP`, `CT_CC`, `PHIEUTHANHTOANNCC`
-- **Kế toán:** `TAIKHOANCAP1`, `TAIKHOANCAP2`, `TAIKHOANCAP3`, `BUTTOAN`, `SODUDAUKY`, `PHIEUTHU`, `PHIEUCHI`
-- **Khuyến mãi:** `CTKM`, `CT_KM`, `THETV`
-- **Khác:** `BAOCAO`, `DVTSP`, `DONVITINHQUYDOI`, `NGANHANG`
+- **Conceptual (CDM)** — Entity-Relationship Diagram with 20+ entities
+- **Logical (LDM)** — Normalised relational model with primary/foreign keys
+- **Physical (PDM)** — Final schema deployed on SQL Server with full constraints
 
----
+**Core tables include:** NhanVien, TaiKhoan, KhachHang, SanPham, DonDatHang, PhieuXuat, HoaDon, PhieuThanhToan, TonKho, PhieuNhap, NhaCungCap, CTKM, VaiTro, and 10+ junction/detail tables.
 
-## 📐 Phân Tích & Thiết Kế Hệ Thống
-
-Dự án áp dụng đầy đủ quy trình phân tích và thiết kế hệ thống thông tin kế toán:
-
-- **BFD** (Business Function Diagram) – Mô hình phân rã chức năng
-- **DFD** (Data Flow Diagram) – Mô hình luồng dữ liệu
-- **ERD** (Entity Relationship Diagram) – Mô hình quan hệ thực thể
-- **Use Case Diagram** – Sơ đồ use case mức tổng thể và chi tiết
-- **Lưu đồ chứng từ** – Mô tả quy trình xử lý chứng từ kế toán
+**Integrity constraints implemented:**
+- Domain constraints (e.g. TenThe ∈ {Vàng, Bạc, Kim cương, VIP})
+- Inter-attribute constraints (e.g. HSD > NgaySX, DonGiaSP ≥ GiaNhapSP)
+- Tuple constraints (e.g. TonKho ≥ 0, MatKhau length ≥ 6)
+- Referential constraints (e.g. NhanVien → PhongBan, DonDatHang → KhachHang)
 
 ---
 
-## 🚀 Hướng Dẫn Cài Đặt
+## SQL Server Features Implemented
 
-### Yêu Cầu Hệ Thống
+### Synonym
+Aliases created for core tables (SanPham, DonDatHang, TaiKhoan) to simplify queries and decouple object names from physical locations, supporting cross-database access.
 
-- Windows 10/11
-- .NET Framework (phiên bản tương thích với Visual Studio)
-- Microsoft SQL Server 2019 trở lên
-- Microsoft Visual Studio 2022
+### Index
+- **Clustered Index** on primary keys (MaKH, MaSP, MaDDH)
+- **Non-Clustered Index** on frequently filtered columns (SDTKH, MaLoaiKH, NgayDatHang)
+- Applied to KhachHang, DonDatHang, PhieuNhap, PhieuXuat tables
 
-### Các Bước Cài Đặt
+### View
+- `v_DanhSachKhachHang` — Customer contact list
+- `v_BaoCaoDonHangChiTiet` — Detailed order report
+- `v_TongHopNhapXuat` — Warehouse import/export summary
+- `v_KhachHangSieuThi` — Filtered view: supermarket customers only
+- `v_HieuQuaKinhDoanh` — Business performance by product category
 
-1. **Clone repository**
-   ```bash
-   git clone <repository-url>
-   cd acecook-accounting-system
-   ```
+### Function
+- `fn_TinhTongTienDonHang` — Calculate total order value
+- `fn_TimSanPhamTheoGia` — Filter products by price range
+- `fn_BaoCaoTonKho` — Inventory report with stock status evaluation
 
-2. **Khôi phục CSDL**
-   - Mở SQL Server Management Studio (SSMS)
-   - Restore file backup CSDL (`.bak`) hoặc chạy script SQL trong thư mục `/Database`
+### Stored Procedure
+- `sp_ThemKhachHangMoi` — Add new customer
+- `sp_TaoDonDatHang` — Create new order
+- `sp_DuyetDonHang` — Approve order
+- `sp_HuyDonHang` — Cancel order
+- `sp_ThanhToanCongNo` — Process debt payment
+- `sp_LichSuMuaHang` — Customer purchase history
+- `sp_KiemTraHeThong` — System health check
+- `sp_XuLyDonHang_Transaction` — Full order processing with ACID transaction
 
-3. **Cấu hình Connection String**
-   - Mở file `App.config` hoặc `appsettings.json`
-   - Cập nhật chuỗi kết nối theo thông tin SQL Server của bạn:
-   ```xml
-   <connectionStrings>
-     <add name="AcecookDB"
-          connectionString="Server=YOUR_SERVER;Database=AcecookDB;Integrated Security=True;"
-          providerName="System.Data.SqlClient"/>
-   </connectionStrings>
-   ```
+### Trigger
+- DML: Check inventory on order creation; auto-update customer debt on invoicing; restore stock on order line deletion
+- DDL: Audit log for schema changes (table structure modifications)
+- LOGON: Limit concurrent logins; auto-log every login event
 
-4. **Build & Run**
-   - Mở file `.sln` bằng Visual Studio
-   - Build solution (`Ctrl + Shift + B`)
-   - Chạy ứng dụng (`F5`)
+### User & Role (RBAC)
+- Roles mapped from VaiTro table: Role_BanHang, Role_ThuKho, Role_KeToan, etc.
+- Password encryption/decryption using SHA2 hashing
+- GRANT permissions assigned per role with detailed access control
 
-### Tài Khoản Mặc Định (Demo)
+### Transaction & Isolation
+- Explicit transactions (BEGIN TRAN / COMMIT / ROLLBACK) with TRY…CATCH
+- READ COMMITTED isolation level tested against Dirty Read and Non-Repeatable Read scenarios
+- UPDLOCK applied to prevent Lost Update in concurrent order processing
 
-| Tài khoản | Mật khẩu | Vai trò |
-|---|---|---|
-| `ltthuha` | `ThuHa@456` | Kế toán trưởng |
-
-> ⚠️ **Lưu ý:** Thay đổi mật khẩu mặc định sau khi cài đặt lần đầu.
-
----
-
-## 📁 Cấu Trúc Dự Án
-
-```
-AcecookAccountingSystem/
-├── Forms/                  # Các form giao diện (Windows Forms)
-│   ├── Login/              # Đăng nhập
-│   ├── Customer/           # Quản lý khách hàng
-│   ├── Order/              # Quản lý đơn hàng
-│   ├── Product/            # Quản lý sản phẩm
-│   ├── Inventory/          # Quản lý kho
-│   ├── Supplier/           # Quản lý nhà cung cấp
-│   ├── Accounting/         # Kế toán (công nợ, hóa đơn, bút toán)
-│   └── Report/             # Báo cáo thống kê
-├── Models/                 # Các lớp thực thể (Entity classes)
-├── DAL/                    # Data Access Layer
-├── BLL/                    # Business Logic Layer
-├── Database/               # Script SQL và backup CSDL
-└── Resources/              # Tài nguyên (hình ảnh, icon)
-```
+### Backup & Restore
+- Full backup to `.bak` file using BACKUP DATABASE
+- Restore via file attach (`.mdf` + `.ldf`) using SSMS Attach workflow
 
 ---
 
-## 📚 Tài Liệu Tham Khảo
+## WinForms Application
 
-- Báo cáo đồ án học phần Hệ thống Thông tin Kế toán
-- Microsoft SQL Server Documentation
-- C# Windows Forms Documentation – Microsoft Docs
-- Giáo trình Hệ thống Thông tin Kế toán – Trường ĐH Tài chính Marketing
+A desktop application (C# / WinForms) connects to the SQL Server database to demonstrate core business functions:
+
+- **Login** — Credential authentication with role-based session loading
+- **Customer Management** — Full CRUD for customer records and classification
+- **Order Management** — Order lifecycle tracking from creation to payment
+- **Revenue Report** — Summary, by-product, and chart tabs with date filtering
+- **Access Control** — Dynamic menu visibility based on user role (RBAC)
+- **Change Password** — Secure password update with old-password verification
 
 ---
 
-## 📄 Giấy Phép
+## Key Outcomes
 
-Dự án được thực hiện phục vụ mục đích học thuật tại **Trường Đại học Tài chính Marketing**, Khoa Khoa học Dữ liệu.
+- Fully normalised relational database with 30+ tables deployed on SQL Server
+- Complete business logic layer via Stored Procedures, Functions, Triggers, and Views
+- RBAC security model with encrypted credentials and login auditing
+- ACID-compliant transaction management with concurrency control
+- Automated sales tracking, inventory management, and real-time reporting
+- WinForms UI demonstrating end-to-end sales workflow
 
-© 2025 – Acecook Việt Nam. All rights reserved.
+---
+
+
+## Project Info
+
+| | |
+|---|---|
+| Course | Hệ Quản Trị Cơ Sở Dữ Liệu SQL Server |
+| Institution | University of Finance and Marketing (UFM), Ho Chi Minh City |
+| Completed | December 2025 |
