@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{109E79AC-2FD3-46C6-9559-FB6D4876837D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>HTTKTBHACECOOK</RootNamespace>
+    <AssemblyName>HTTKTBHACECOOK</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Windows.Forms.DataVisualization.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CustomerAddEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerAddEditForm.Designer.cs">
+      <DependentUpon>CustomerAddEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerDetailForm.Designer.cs">
+      <DependentUpon>CustomerDetailForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerManagementForm.Designer.cs">
+      <DependentUpon>CustomerManagementForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DashboardForm.Designer.cs">
+      <DependentUpon>DashboardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DebtDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DebtDetailForm.Designer.cs">
+      <DependentUpon>DebtDetailForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DebtManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DebtManagementForm.Designer.cs">
+      <DependentUpon>DebtManagementForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InventoryManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InventoryManagementForm.Designer.cs">
+      <DependentUpon>InventoryManagementForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InventoryReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InventoryReport.Designer.cs">
+      <DependentUpon>InventoryReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InventoryTransactionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InventoryTransactionForm.Designer.cs">
+      <DependentUpon>InventoryTransactionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InvoiceAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InvoiceAddForm.Designer.cs">
+      <DependentUpon>InvoiceAddForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InvoiceManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InvoiceManagementForm.Designer.cs">
+      <DependentUpon>InvoiceManagementForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JournalEntryDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JournalEntryDetailForm.Designer.cs">
+      <DependentUpon>JournalEntryDetailForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JournalEntryManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JournalEntryManagement.Designer.cs">
+      <DependentUpon>JournalEntryManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaterialAddEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MaterialAddEditForm.Designer.cs">
+      <DependentUpon>MaterialAddEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderAddEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderAddEditForm.Designer.cs">
+      <DependentUpon>OrderAddEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderManagementForm.Designer.cs">
+      <DependentUpon>OrderManagementForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderReportForm.Designer.cs">
+      <DependentUpon>OrderReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaymentForm.Designer.cs">
+      <DependentUpon>PaymentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductAddEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductAddEditForm.Designer.cs">
+      <DependentUpon>ProductAddEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductManagementForm.Designer.cs">
+      <DependentUpon>ProductManagementForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SalesRevenueReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalesRevenueReport.Designer.cs">
+      <DependentUpon>SalesRevenueReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StockCardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StockCardForm.Designer.cs">
+      <DependentUpon>StockCardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierAddEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierAddEditForm.Designer.cs">
+      <DependentUpon>SupplierAddEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierForm.Designer.cs">
+      <DependentUpon>SupplierForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CustomerAddEditForm.resx">
+      <DependentUpon>CustomerAddEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InvoiceAddForm.resx">
+      <DependentUpon>InvoiceAddForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JournalEntryDetailForm.resx">
+      <DependentUpon>JournalEntryDetailForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderAddEditForm.resx">
+      <DependentUpon>OrderAddEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductAddEditForm.resx">
+      <DependentUpon>ProductAddEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductManagementForm.resx">
+      <DependentUpon>ProductManagementForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="SalesRevenueReport.resx">
+      <DependentUpon>SalesRevenueReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

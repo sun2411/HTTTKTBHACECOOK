@@ -1,0 +1,1216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|d:\\hk3_2025\\httkt\\11_lengocphuongthao_0102\\chuongtrinh\\httktbhacecook\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\customeraddeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:customeraddeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\orderreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:orderreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\inventoryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:inventoryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\orderreportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:orderreportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\journalentrymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:journalentrymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\inventorytransactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:inventorytransactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\inventorytransactionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:inventorytransactionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\journalentrydetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:journalentrydetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\journalentrydetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:journalentrydetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\invoiceaddform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:invoiceaddform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\invoiceaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:invoiceaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\inventorymanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:inventorymanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\inventorymanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:inventorymanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\inventorymanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:inventorymanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\inventorytransactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:inventorytransactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\stockcardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:stockcardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\stockcardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:stockcardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\stockcardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:stockcardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\materialaddeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:materialaddeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\materialaddeditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:materialaddeditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\materialaddeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:materialaddeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\productmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:productmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\invoiceaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:invoiceaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\journalentrymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:journalentrymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\journalentrymanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:journalentrymanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\salesrevenuereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:salesrevenuereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\salesrevenuereport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:salesrevenuereport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\salesrevenuereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:salesrevenuereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\inventoryreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:inventoryreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\invoicemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:invoicemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\invoicemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:invoicemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\invoicemanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:invoicemanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\journalentrydetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:journalentrydetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\debtmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:debtmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\paymentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:paymentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\debtdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:debtdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\debtdetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:debtdetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\debtdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:debtdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\productmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:productmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\productmanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:productmanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\productaddeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:productaddeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\orderaddeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:orderaddeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\supplieraddeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:supplieraddeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\orderaddeditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:orderaddeditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\ordermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:ordermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\orderreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:orderreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\supplierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:supplierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\inventoryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:inventoryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\debtmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:debtmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\debtmanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:debtmanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\supplierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:supplierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\supplieraddeditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:supplieraddeditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\supplierform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:supplierform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\supplieraddeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:supplieraddeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\productaddeditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:productaddeditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\productaddeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:productaddeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\orderaddeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:orderaddeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\ordermanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:ordermanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\ordermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:ordermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\customermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:customermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\customeraddeditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:customeraddeditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\customeraddeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:customeraddeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\customerdetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:customerdetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\customerdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:customerdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\customerdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:customerdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\customermanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:customermanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\customermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:customermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E79AC-2FD3-46C6-9559-FB6D4876837D}|HTTKTBHACECOOK.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderReportForm.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\OrderReportForm.cs",
+              "RelativeDocumentMoniker": "OrderReportForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\OrderReportForm.cs",
+              "RelativeToolTip": "OrderReportForm.cs",
+              "ViewState": "AgIAAAcCAAAAAAAAAAAkwBwCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T06:00:21.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JournalEntryManagement.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\JournalEntryManagement.cs",
+              "RelativeDocumentMoniker": "JournalEntryManagement.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\JournalEntryManagement.cs",
+              "RelativeToolTip": "JournalEntryManagement.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAAAPgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:37:26.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderReportForm.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\OrderReportForm.Designer.cs",
+              "RelativeDocumentMoniker": "OrderReportForm.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\OrderReportForm.Designer.cs",
+              "RelativeToolTip": "OrderReportForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T06:00:00.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryReport.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InventoryReport.cs",
+              "RelativeDocumentMoniker": "InventoryReport.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InventoryReport.cs",
+              "RelativeToolTip": "InventoryReport.cs",
+              "ViewState": "AgIAAPEBAAAAAAAAAADwvwkCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T05:37:34.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerAddEditForm.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\CustomerAddEditForm.cs",
+              "RelativeDocumentMoniker": "CustomerAddEditForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\CSDL\\HTTKTBHACECOOK\\CustomerAddEditForm.cs*",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\CSDL\\HTTKTBHACECOOK\\CustomerAddEditForm.cs*",
+              "ViewState": "AgIAACUBAAAAAAAAAAAwwD0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:42:54.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAACpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:34:43.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryTransactionForm.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InventoryTransactionForm.cs",
+              "RelativeDocumentMoniker": "InventoryTransactionForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InventoryTransactionForm.cs",
+              "RelativeToolTip": "InventoryTransactionForm.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAADwv8YAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:23:11.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InventoryTransactionForm.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InventoryTransactionForm.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryTransactionForm.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InventoryTransactionForm.Designer.cs",
+              "RelativeToolTip": "InventoryTransactionForm.Designer.cs",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAYwCQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:23:41.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InventoryManagementForm.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InventoryManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryManagementForm.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InventoryManagementForm.Designer.cs",
+              "RelativeToolTip": "InventoryManagementForm.Designer.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAADwv/4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:08:56.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JournalEntryDetailForm.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\JournalEntryDetailForm.Designer.cs",
+              "RelativeDocumentMoniker": "JournalEntryDetailForm.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\JournalEntryDetailForm.Designer.cs",
+              "RelativeToolTip": "JournalEntryDetailForm.Designer.cs",
+              "ViewState": "AgIAABEBAAAAAAAAAADwvykBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T17:57:01.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JournalEntryDetailForm.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\JournalEntryDetailForm.cs",
+              "RelativeDocumentMoniker": "JournalEntryDetailForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\JournalEntryDetailForm.cs",
+              "RelativeToolTip": "JournalEntryDetailForm.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAADwv9wAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T17:57:21.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvoiceAddForm.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InvoiceAddForm.Designer.cs",
+              "RelativeDocumentMoniker": "InvoiceAddForm.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InvoiceAddForm.Designer.cs",
+              "RelativeToolTip": "InvoiceAddForm.Designer.cs",
+              "ViewState": "AgIAALUBAAAAAAAAAADwv80BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T02:37:27.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InvoiceAddForm.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InvoiceAddForm.cs",
+              "RelativeDocumentMoniker": "InvoiceAddForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InvoiceAddForm.cs",
+              "RelativeToolTip": "InvoiceAddForm.cs",
+              "ViewState": "AgIAAOkCAAAAAAAAAADwvwEDAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T02:37:42.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InventoryManagementForm.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InventoryManagementForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InventoryManagementForm.cs",
+              "RelativeToolTip": "InventoryManagementForm.cs",
+              "ViewState": "AgIAAEwBAAAAAAAAAAAswGMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:08:46.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InventoryManagementForm.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InventoryManagementForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\InventoryManagementForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\InventoryManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:08:27.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InventoryTransactionForm.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InventoryTransactionForm.cs",
+              "RelativeDocumentMoniker": "InventoryTransactionForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\InventoryTransactionForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\InventoryTransactionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:23:00.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StockCardForm.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\StockCardForm.cs",
+              "RelativeDocumentMoniker": "StockCardForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\StockCardForm.cs",
+              "RelativeToolTip": "StockCardForm.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwFIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:22:10.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StockCardForm.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\StockCardForm.Designer.cs",
+              "RelativeDocumentMoniker": "StockCardForm.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\StockCardForm.Designer.cs",
+              "RelativeToolTip": "StockCardForm.Designer.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv1IAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:22:33.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StockCardForm.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\StockCardForm.cs",
+              "RelativeDocumentMoniker": "StockCardForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\StockCardForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\StockCardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:21:58.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MaterialAddEditForm.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\MaterialAddEditForm.Designer.cs",
+              "RelativeDocumentMoniker": "MaterialAddEditForm.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\MaterialAddEditForm.Designer.cs",
+              "RelativeToolTip": "MaterialAddEditForm.Designer.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAADwv/YAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:14:13.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MaterialAddEditForm.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\MaterialAddEditForm.cs",
+              "RelativeDocumentMoniker": "MaterialAddEditForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\MaterialAddEditForm.cs",
+              "RelativeToolTip": "MaterialAddEditForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwCQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:13:38.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MaterialAddEditForm.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\MaterialAddEditForm.cs",
+              "RelativeDocumentMoniker": "MaterialAddEditForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\MaterialAddEditForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\MaterialAddEditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:13:07.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InvoiceAddForm.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InvoiceAddForm.cs",
+              "RelativeDocumentMoniker": "InvoiceAddForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\InvoiceAddForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\InvoiceAddForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T02:36:53.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductManagementForm.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\ProductManagementForm.cs",
+              "RelativeDocumentMoniker": "ProductManagementForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\ProductManagementForm.cs",
+              "RelativeToolTip": "ProductManagementForm.cs",
+              "ViewState": "AgIAAAEBAAAAAAAAAAAcwA0BAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:00:36.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JournalEntryManagement.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\JournalEntryManagement.cs",
+              "RelativeDocumentMoniker": "JournalEntryManagement.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\CSDL\\HTTKTBHACECOOK\\JournalEntryManagement.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\CSDL\\HTTKTBHACECOOK\\JournalEntryManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:32:20.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "JournalEntryManagement.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\JournalEntryManagement.Designer.cs",
+              "RelativeDocumentMoniker": "JournalEntryManagement.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\JournalEntryManagement.Designer.cs",
+              "RelativeToolTip": "JournalEntryManagement.Designer.cs",
+              "ViewState": "AgIAANsBAAAAAAAAAADgv+sBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:37:12.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SalesRevenueReport.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\SalesRevenueReport.cs",
+              "RelativeDocumentMoniker": "SalesRevenueReport.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\SalesRevenueReport.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\SalesRevenueReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:40:30.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SalesRevenueReport.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\SalesRevenueReport.Designer.cs",
+              "RelativeDocumentMoniker": "SalesRevenueReport.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\SalesRevenueReport.Designer.cs",
+              "RelativeToolTip": "SalesRevenueReport.Designer.cs",
+              "ViewState": "AgIAAK0DAAAAAAAAAADwv8UDAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:46:57.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SalesRevenueReport.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\SalesRevenueReport.cs",
+              "RelativeDocumentMoniker": "SalesRevenueReport.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\SalesRevenueReport.cs",
+              "RelativeToolTip": "SalesRevenueReport.cs",
+              "ViewState": "AgIAACgCAAAAAAAAAADwv0ACAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:47:11.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InventoryReport.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InventoryReport.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryReport.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InventoryReport.Designer.cs",
+              "RelativeToolTip": "InventoryReport.Designer.cs",
+              "ViewState": "AgIAAPkBAAAAAAAAAADwvwMCAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T06:50:26.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "InvoiceManagementForm.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InvoiceManagementForm.cs",
+              "RelativeDocumentMoniker": "InvoiceManagementForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InvoiceManagementForm.cs",
+              "RelativeToolTip": "InvoiceManagementForm.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAADwvx0BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:25:19.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "InvoiceManagementForm.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InvoiceManagementForm.cs",
+              "RelativeDocumentMoniker": "InvoiceManagementForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\InvoiceManagementForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\InvoiceManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:14:49.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "InvoiceManagementForm.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InvoiceManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "InvoiceManagementForm.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InvoiceManagementForm.Designer.cs",
+              "RelativeToolTip": "InvoiceManagementForm.Designer.cs",
+              "ViewState": "AgIAAPABAAAAAAAAAADwvwgCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:24:47.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "JournalEntryDetailForm.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\JournalEntryDetailForm.cs",
+              "RelativeDocumentMoniker": "JournalEntryDetailForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\JournalEntryDetailForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\JournalEntryDetailForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T17:56:35.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DashboardForm.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\DashboardForm.Designer.cs",
+              "RelativeDocumentMoniker": "DashboardForm.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\DashboardForm.Designer.cs",
+              "RelativeToolTip": "DashboardForm.Designer.cs",
+              "ViewState": "AgIAAOgBAAAAAAAAAAAAAL4BAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:49:40.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DebtManagementForm.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\DebtManagementForm.cs",
+              "RelativeDocumentMoniker": "DebtManagementForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\DebtManagementForm.cs",
+              "RelativeToolTip": "DebtManagementForm.cs",
+              "ViewState": "AgIAAAMCAAAAAAAAAAAkwBgCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:31:00.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PaymentForm.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\PaymentForm.Designer.cs",
+              "RelativeDocumentMoniker": "PaymentForm.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\PaymentForm.Designer.cs",
+              "RelativeToolTip": "PaymentForm.Designer.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAADwv54AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T16:42:15.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PaymentForm.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "PaymentForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\PaymentForm.cs",
+              "RelativeToolTip": "PaymentForm.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAADwv2YAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T16:42:35.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DebtDetailForm.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\DebtDetailForm.cs",
+              "RelativeDocumentMoniker": "DebtDetailForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\DebtDetailForm.cs",
+              "RelativeToolTip": "DebtDetailForm.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv1UAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T16:45:09.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DebtDetailForm.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\DebtDetailForm.Designer.cs",
+              "RelativeDocumentMoniker": "DebtDetailForm.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\DebtDetailForm.Designer.cs",
+              "RelativeToolTip": "DebtDetailForm.Designer.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAADwv9IAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T16:45:29.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DebtDetailForm.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\DebtDetailForm.cs",
+              "RelativeDocumentMoniker": "DebtDetailForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\DebtDetailForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\DebtDetailForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T16:44:56.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PaymentForm.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "PaymentForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\PaymentForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\PaymentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T16:42:07.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProductManagementForm.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\ProductManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "ProductManagementForm.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\ProductManagementForm.Designer.cs",
+              "RelativeToolTip": "ProductManagementForm.Designer.cs",
+              "ViewState": "AgIAAGsBAAAAAAAAAAAiwHgBAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:00:20.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProductAddEditForm.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\ProductAddEditForm.cs",
+              "RelativeDocumentMoniker": "ProductAddEditForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\ProductAddEditForm.cs",
+              "RelativeToolTip": "ProductAddEditForm.cs",
+              "ViewState": "AgIAAHIBAAAAAAAAAAAswIkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:14:34.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProductManagementForm.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\ProductManagementForm.cs",
+              "RelativeDocumentMoniker": "ProductManagementForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\ProductManagementForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\ProductManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:00:04.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OrderAddEditForm.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\OrderAddEditForm.cs",
+              "RelativeDocumentMoniker": "OrderAddEditForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\OrderAddEditForm.cs",
+              "RelativeToolTip": "OrderAddEditForm.cs",
+              "ViewState": "AgIAAC8CAAAAAAAAAAAswEYCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:26:07.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SupplierAddEditForm.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\SupplierAddEditForm.cs",
+              "RelativeDocumentMoniker": "SupplierAddEditForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\SupplierAddEditForm.cs",
+              "RelativeToolTip": "SupplierAddEditForm.cs",
+              "ViewState": "AgIAAGoBAAAAAAAAAAA7wIABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:42:47.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "OrderAddEditForm.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\OrderAddEditForm.Designer.cs",
+              "RelativeDocumentMoniker": "OrderAddEditForm.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\OrderAddEditForm.Designer.cs",
+              "RelativeToolTip": "OrderAddEditForm.Designer.cs",
+              "ViewState": "AgIAALMBAAAAAAAAAADwv8sBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:25:50.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "OrderManagementForm.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\OrderManagementForm.cs",
+              "RelativeDocumentMoniker": "OrderManagementForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\OrderManagementForm.cs",
+              "RelativeToolTip": "OrderManagementForm.cs",
+              "ViewState": "AgIAACEBAAAAAAAAAAAewAQBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:56:49.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\LoginForm.Designer.cs",
+              "RelativeToolTip": "LoginForm.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAABRwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:32:39.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\CSDL\\HTTKTBHACECOOK\\LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\CSDL\\HTTKTBHACECOOK\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:31:55.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "DashboardForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\DashboardForm.cs",
+              "RelativeToolTip": "DashboardForm.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAiwAoBAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:49:07.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "OrderReportForm.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\OrderReportForm.cs",
+              "RelativeDocumentMoniker": "OrderReportForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\CSDL\\HTTKTBHACECOOK\\OrderReportForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\CSDL\\HTTKTBHACECOOK\\OrderReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T05:52:12.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SupplierForm.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\SupplierForm.cs",
+              "RelativeDocumentMoniker": "SupplierForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\SupplierForm.cs",
+              "RelativeToolTip": "SupplierForm.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAIwDABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:40:05.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "InventoryReport.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\InventoryReport.cs",
+              "RelativeDocumentMoniker": "InventoryReport.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\CSDL\\HTTKTBHACECOOK\\InventoryReport.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\CSDL\\HTTKTBHACECOOK\\InventoryReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:56:42.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DebtManagementForm.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\DebtManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "DebtManagementForm.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\DebtManagementForm.Designer.cs",
+              "RelativeToolTip": "DebtManagementForm.Designer.cs",
+              "ViewState": "AgIAAM0CAAAAAAAAAAAuwOwCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:30:47.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DebtManagementForm.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\DebtManagementForm.cs",
+              "RelativeDocumentMoniker": "DebtManagementForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\DebtManagementForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\DebtManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:26:09.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "SupplierForm.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\SupplierForm.cs",
+              "RelativeDocumentMoniker": "SupplierForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\SupplierForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\SupplierForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:41:26.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SupplierAddEditForm.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\SupplierAddEditForm.Designer.cs",
+              "RelativeDocumentMoniker": "SupplierAddEditForm.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\SupplierAddEditForm.Designer.cs",
+              "RelativeToolTip": "SupplierAddEditForm.Designer.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAuwCsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:42:56.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SupplierForm.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\SupplierForm.Designer.cs",
+              "RelativeDocumentMoniker": "SupplierForm.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\SupplierForm.Designer.cs",
+              "RelativeToolTip": "SupplierForm.Designer.cs",
+              "ViewState": "AgIAAHoBAAAAAAAAAAAuwJkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:39:53.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "SupplierAddEditForm.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\SupplierAddEditForm.cs",
+              "RelativeDocumentMoniker": "SupplierAddEditForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\SupplierAddEditForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\SupplierAddEditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:42:29.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ProductAddEditForm.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\ProductAddEditForm.Designer.cs",
+              "RelativeDocumentMoniker": "ProductAddEditForm.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\ProductAddEditForm.Designer.cs",
+              "RelativeToolTip": "ProductAddEditForm.Designer.cs",
+              "ViewState": "AgIAAJkBAAAAAAAAAAAuwKkBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:13:22.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ProductAddEditForm.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\ProductAddEditForm.cs",
+              "RelativeDocumentMoniker": "ProductAddEditForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\ProductAddEditForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\ProductAddEditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:13:02.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "OrderAddEditForm.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\OrderAddEditForm.cs",
+              "RelativeDocumentMoniker": "OrderAddEditForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\OrderAddEditForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\OrderAddEditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:19:10.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "OrderManagementForm.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\OrderManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "OrderManagementForm.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\OrderManagementForm.Designer.cs",
+              "RelativeToolTip": "OrderManagementForm.Designer.cs",
+              "ViewState": "AgIAAFEBAAAAAAAAAAAuwHABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:56:23.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "OrderManagementForm.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\OrderManagementForm.cs",
+              "RelativeDocumentMoniker": "OrderManagementForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\OrderManagementForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\OrderManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:46:34.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CustomerAddEditForm.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\CustomerAddEditForm.cs",
+              "RelativeDocumentMoniker": "CustomerAddEditForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\CSDL\\HTTKTBHACECOOK\\CustomerAddEditForm.cs [Design]*",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\CSDL\\HTTKTBHACECOOK\\CustomerAddEditForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:41:19.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CustomerDetailForm.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\CustomerDetailForm.cs",
+              "RelativeDocumentMoniker": "CustomerDetailForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\CustomerDetailForm.cs",
+              "RelativeToolTip": "CustomerDetailForm.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAuwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:33:29.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "CustomerDetailForm.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\CustomerDetailForm.Designer.cs",
+              "RelativeDocumentMoniker": "CustomerDetailForm.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\CustomerDetailForm.Designer.cs",
+              "RelativeToolTip": "CustomerDetailForm.Designer.cs",
+              "ViewState": "AgIAAJYBAAAAAAAAAAAuwKUBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:33:05.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CustomerManagementForm.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\CustomerManagementForm.cs",
+              "RelativeDocumentMoniker": "CustomerManagementForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\CustomerManagementForm.cs",
+              "RelativeToolTip": "CustomerManagementForm.cs",
+              "ViewState": "AgIAAHABAAAAAAAAAAAuwI8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T12:40:55.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CustomerAddEditForm.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\CustomerAddEditForm.Designer.cs",
+              "RelativeDocumentMoniker": "CustomerAddEditForm.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\CSDL\\HTTKTBHACECOOK\\CustomerAddEditForm.Designer.cs*",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\CSDL\\HTTKTBHACECOOK\\CustomerAddEditForm.Designer.cs*",
+              "ViewState": "AgIAAJoBAAAAAAAAAAAuwLkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:41:25.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "CustomerDetailForm.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\CustomerDetailForm.cs",
+              "RelativeDocumentMoniker": "CustomerDetailForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\CustomerDetailForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\CustomerDetailForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:32:58.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CustomerManagementForm.Designer.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\CustomerManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "CustomerManagementForm.Designer.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\CustomerManagementForm.Designer.cs",
+              "RelativeToolTip": "CustomerManagementForm.Designer.cs",
+              "ViewState": "AgIAAFMBAAAAAAAAAAAAwHEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T12:40:29.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "CustomerManagementForm.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\CustomerManagementForm.cs",
+              "RelativeDocumentMoniker": "CustomerManagementForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\CustomerManagementForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\CustomerManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T12:40:23.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "DashboardForm.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\11_2321004081_LeNgocPhuongThao_0102\\HTTKTBHACECOOK\\DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:49:01.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\HK3_2025\\HTTKT\\11_LeNgocPhuongThao_0102\\CHUONGTRINH\\HTTKTBHACECOOK\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:39:58.622Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
